@@ -97,11 +97,11 @@
   font-size: 1.5rem;
 }
 
-.card p {
+/* .card p {
   margin: 0;
   font-size: 1.25rem;
   line-height: 1.5;
-}
+} */
 
 .logo {
   height: 1em;
@@ -114,3 +114,4 @@
     flex-direction: column;
   }
 }
+
